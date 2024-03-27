@@ -1,4 +1,4 @@
-set object 1 rectangle from graph 0, first 50 to graph 1, first -50
+set object 1 rectangle from graph 0,68 to graph 1,64
 set object 1 fillstyle solid fillcolor "light-green"
 set object 1 behind
 
@@ -10,4 +10,3 @@ set xtics format "%d-%m\n%H:%M"
 set y2tics
 set term png
 set output "baobab_2.png"
-
