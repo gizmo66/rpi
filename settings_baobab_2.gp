@@ -1,4 +1,4 @@
-set object 1 rectangle from graph 0,68 to graph 1,64
+set object 1 rectangle from graph 0, first 68 to graph 1, first 64
 set object 1 fillstyle solid fillcolor "light-green"
 set object 1 behind
 
