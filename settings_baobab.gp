@@ -1,3 +1,7 @@
+set object 1 rectangle from graph 0, first 44000 to graph 1, first 41500
+set object 1 fillstyle solid fillcolor "light-blue"
+set object 1 behind
+
 set datafile separator ","
 set grid
 set xdata time
