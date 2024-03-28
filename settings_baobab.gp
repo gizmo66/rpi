@@ -6,6 +6,10 @@ set object 2 rectangle from graph 0, first 42000 to graph 1, first 38000
 set object 2 fillstyle solid fillcolor "light-green"
 set object 2 behind
 
+set object 3 rectangle from graph 0, first 38000 to graph 1, first 36000
+set object 3 fillstyle solid fillcolor "light-yellow"
+set object 3 behind
+
 set datafile separator ","
 set grid
 set xdata time
