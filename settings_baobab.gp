@@ -7,7 +7,7 @@ set object 2 fillstyle solid fillcolor "light-green"
 set object 2 behind
 
 set object 3 rectangle from graph 0, first 38000 to graph 1, first 34000
-set object 3 fillstyle solid fillcolor "light-yellow"
+set object 3 fillstyle solid fillcolor "yellow"
 set object 3 behind
 
 set object 4 rectangle from graph 0, first 34000 to graph 1, first 30000
